@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Alan Fu
+- 👀 I’m interested in embedded programming and control systems
+- 🌱 I’m currently a second-year Mechanical Engineering
+- 📫 How to reach me: linkedin.com/in/alanfu3354
