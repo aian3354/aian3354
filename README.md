@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Alan Fu
 - 👀 I’m interested in embedded programming and control systems
-- 🌱 I’m currently a second-year Mechanical Engineering
+- 🌱 I’m currently a second-year Mechanical Engineering at UBC
 - 📫 How to reach me: linkedin.com/in/alanfu3354
